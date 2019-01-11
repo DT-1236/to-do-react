@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`simple smoking snapshots matches snapshot 1`] = `
+<div>
+  <NewTodoForm
+    addATask={[Function]}
+  />
+  <ul />
+</div>
+`;

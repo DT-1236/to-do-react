@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`simple smoking snapshots matches snapshot 1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <label
+    htmlFor="task"
+  >
+    New Task:
+  </label>
+  <input
+    name="task"
+    onChange={[Function]}
+    value=""
+  />
+  <button>
+    Add!
+  </button>
+</form>
+`;
